@@ -1,6 +1,6 @@
 ### Hi there, I'm Raj 👋
 
-## I'm a Blockchain Developer, Consultant and Teacher!
+## I'm a Blockchain Developer, Consultant, Teacher and Deployment Researcher!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
