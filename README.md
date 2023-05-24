@@ -1,7 +1,7 @@
 ### Hi there, I'm Raj 👋
 
 ## I'm a Blockchain Developer, Consultant, Mentor and Deployment Researcher!
-- 🌱 I’m currently in creator mode
+- 🌱 working on new L1 Blockchain
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
