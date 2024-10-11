@@ -3,7 +3,7 @@
 ## I'm a Blockchain Developer, Consultant and Deployment Researcher!
 - 🌱 working on new L1 Blockchain
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!--
